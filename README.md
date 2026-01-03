@@ -123,6 +123,17 @@ Combining PCA with regional and healthcare stratification provides a robust, int
 - All figures and tables are generated directly from R scripts.
 - Output files are saved to structured directories (outputs/figures, outputs/tables).
 - Code and interpretation are explicitly linked, ensuring transparency and reproducibility.
+  
+---
+  
+## 👤 Author
+**Eslam Abuelella**  
+MSc Data Science – Coventry University  
 
- 
+- GitHub: https://github.com/eslamhussienabuelella  
+- Portfolio: https://eslamhussienabuelella.github.io  
 
+---
+
+## 📄 License
+This project is shared for academic and portfolio purposes.
