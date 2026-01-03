@@ -131,4 +131,9 @@ Combining PCA with regional and healthcare stratification provides a robust, int
 MSc Data Science – Coventry University  
 
 - GitHub: https://github.com/eslamhussienabuelella  
-- Portfolio: https://eslamhussienabuelella.github.io  
+- Portfolio: https://eslamhussienabuelella.github.io
+
+---
+  
+## License and Usage
+GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
