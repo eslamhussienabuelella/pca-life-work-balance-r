@@ -79,10 +79,10 @@ Source: https://remote.com/resources/research/global-life-work-balance-index
 ## 📊 Key Results  
   
 ### At a glance
-- PC1 captures overall social well-being and inclusion (~33% variance).
-- Employment protection policies dominate PC2 globally.
-- Europe-only PCA reveals stronger institutional (healthcare) effects.
-- Removing global disparities shifts explanatory power from geography to policy design.
+- PC1 captures overall **social well-being and inclusion** (~33% variance).
+- **Employment protection policies** dominate PC2 globally.
+- Europe-only PCA reveals stronger institutional **(healthcare) effects**.
+- Removing global disparities shifts explanatory power from **geography to policy design**.
   
 ### 🌍 Global PCA (All Countries)
 
