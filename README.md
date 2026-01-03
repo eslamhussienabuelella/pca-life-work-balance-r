@@ -51,10 +51,6 @@ pca-life-work-balance-r
 ├── .gitignore  
 │   
 └── pca-life-work-balance-r.Rproj  
-
-data/raw/ # Raw dataset  
-scripts/ # R scripts for PCA analysis  
-outputs/ # Generated figures and tables  
   
 ---
   
