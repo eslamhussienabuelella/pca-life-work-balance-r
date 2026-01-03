@@ -79,9 +79,50 @@ Global Life–Work Balance Index 2025
 Source: https://remote.com/resources/research/global-life-work-balance-index
   
 ---
+
+## 📊 Key Results  
+### 🌍 Global PCA (All Countries)
+
+- **PC1 (≈ 43–47% variance)** represents a general life–work balance and social wellbeing axis, driven by happiness, LGBTQ inclusivity, public safety, working hours, and overall index score. Countries with stronger social protections and inclusive policies score higher on this dimension.
+
+- **PC2** captures variation in employment benefits, particularly statutory maternity pay, sick pay, and annual leave. This component highlights policy-driven differences that are not fully explained by overall well-being.
+
+- **PC3 and PC4** explain more nuanced structures, including population-related effects and differences in leave arrangements, indicating that life–work balance outcomes are shaped by interacting institutional and demographic factors rather than a single variable.
+
+Regional patterns are clearly visible in the **PC1–PC2 and PC2–PC3 biplots**, where countries from the same region tend to cluster. Europe and Oceania generally occupy higher PC1 values, while Africa and parts of Asia cluster toward lower values, reflecting structural differences in labour protection and social outcomes.
+
+The regional contribution analysis confirms that different regions dominate different components, demonstrating that the interpretation of principal components is **context-dependent**.
   
-## Reproducibility
-All figures and tables can be reproduced by running the scripts from the project root.
+### 🇪🇺 Europe-Only PCA & Healthcare Systems  
+  
+Restricting the analysis to European countries alters the PCA structure:  
+- Variance becomes more evenly distributed across components, indicating greater **within-region heterogeneity**.
+- **Healthcare System type** shows clearer separation in PCA space, particularly along the first two components.
+- Countries with **universal, government-funded healthcare systems** tend to cluster in regions associated with higher social wellbeing and employment protection.
+- Compared to the global PCA, population size becomes less influential, while institutional design choices—especially healthcare and employment benefits—play a stronger role.
+
+This comparison demonstrates that once broad global disparities are removed,**policy structure rather than geography** explains a larger share of life–work balance variation.
+  
+---
+
+## 🧠 Overall Interpretation
+
+The PCA results show that life–work balance is a **multidimensional phenomenon**, driven primarily by:
+
+* Social inclusion and wellbeing
+
+* Employment protection and leave policies
+
+* Institutional context (region and healthcare system)
+
+Combining PCA with regional and healthcare stratification provides a robust, interpretable framework for comparing countries on complex social and labour-market outcomes.
+  
+---
+  
+## 🛠️ Reproducibility
+- All figures and tables are generated directly from R scripts.
+- Output files are saved to structured directories (outputs/figures, outputs/tables).
+- Code and interpretation are explicitly linked, ensuring transparency and reproducibility.
 
  
 
