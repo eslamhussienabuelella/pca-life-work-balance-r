@@ -88,6 +88,7 @@ Source: https://remote.com/resources/research/global-life-work-balance-index
 Regional patterns are clearly visible in the **PC1–PC2 and PC2–PC3 biplots**, where countries from the same region tend to cluster. Europe and Oceania generally occupy higher PC1 values, while Africa and parts of Asia cluster toward lower values, reflecting structural differences in labour protection and social outcomes.
 
 The regional contribution analysis confirms that different regions dominate different components, demonstrating that the interpretation of principal components is **context-dependent**.
+
   
 ### 🇪🇺 Europe-Only PCA & Healthcare Systems  
   
@@ -98,6 +99,20 @@ Restricting the analysis to European countries alters the PCA structure:
 - Compared to the global PCA, population size becomes less influential, while institutional design choices—especially healthcare and employment benefits—play a stronger role.
 
 This comparison demonstrates that once broad global disparities are removed,**policy structure rather than geography** explains a larger share of life–work balance variation.
+
+---
+  
+## 🖼️ Selected Outputs
+
+### Global PCA
+![Global Scree Plot](outputs/figures/partA_scree_global.png)
+
+![PC1 vs PC2 – Region](outputs/figures/partA_biplot_pc1_pc2_region.png)
+
+![PC2 vs PC3 – Region](outputs/figures/partA_biplot_pc2_pc3_region.png)
+
+### Europe PCA (Healthcare System)
+![Europe PCA – Healthcare](outputs/figures/partB_biplot_pc1_pc2_healthcare.png)
   
 ---
 
@@ -119,6 +134,30 @@ Combining PCA with regional and healthcare stratification provides a robust, int
 - All figures and tables are generated directly from R scripts.
 - Output files are saved to structured directories (outputs/figures, outputs/tables).
 - Code and interpretation are explicitly linked, ensuring transparency and reproducibility.
+
+---
+  
+## ▶️ How to Run the Analysis
+
+1. Clone the repository:
+```bash
+git clone https://github.com/eslamhussienabuelella/pca-life-work-balance-r.git
+```
+2. Open the project in RStudio by double-clicking:
+```bash
+pca-life-work-balance-r.Rproj
+```
+3. Run the Global PCA analysis:
+```bash
+source("scripts/part_a_global_pca_region.R")
+```
+4. Run the Europe-only PCA analysis:
+```bash
+source("scripts/part_b_europe_pca_healthcare.R")
+```
+All figures and tables will be saved automatically to:  
+- outputs/figures/
+- outputs/tables/
   
 ---
   
