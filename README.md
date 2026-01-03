@@ -4,13 +4,25 @@ This repository presents a multivariate statistical analysis of the **Global Lif
   
 ---
   
-## Project Overview
-The analysis investigates:
-- Global patterns in life–work balance using PCA
-- Regional structure and variance contributions
-- A focused comparison of European countries with emphasis on healthcare systems
+## 🎯 Project Objectives  
 
-The project follows reproducible research practices with clear separation of data, scripts, and outputs.
+This project applies Principal Component Analysis (PCA) to the Global Life–Work Balance Index 2025 to explore the multivariate structure underlying international differences in life–work balance outcomes.
+  
+The specific objectives are to:  
+
+1. Reduce dimensionality of the life–work balance indicators while retaining the dominant sources of variation across countries.  
+  
+2. Identify and interpret the main latent dimensions (PC1–PC4) driving differences in life–work balance using scree plots, biplots, and loadings.  
+  
+3. Assess regional patterns by investigating how countries from different world regions are distributed in PCA space.  
+  
+4. Compare global and regional structures by repeating the PCA for European countries only.  
+  
+5. Evaluate the role of healthcare systems in shaping life–work balance outcomes within Europe.  
+  
+6. Provide interpretable visual and numerical outputs that support evidence-based conclusions rather than purely descriptive plots.  
+
+This analysis follows reproducible research practices, with all figures and tables generated directly from the R scripts included in this repository.
   
 ---
   
