@@ -79,7 +79,7 @@ Source: https://remote.com/resources/research/global-life-work-balance-index
 ## 📊 Key Results  
 ### 🌍 Global PCA (All Countries)
 
-- **PC1 (≈ 43–47% variance)** represents a general life–work balance and social wellbeing axis, driven by happiness, LGBTQ inclusivity, public safety, working hours, and overall index score. Countries with stronger social protections and inclusive policies score higher on this dimension.
+- **PC1 (≈ 33% variance)** represents a general life–work balance and social well-being axis, driven by happiness, LGBTQ inclusivity, public safety, working hours, and overall index score. Countries with stronger social protections and inclusive policies score higher on this dimension.
 
 - **PC2** captures variation in employment benefits, particularly statutory maternity pay, sick pay, and annual leave. This component highlights policy-driven differences that are not fully explained by overall well-being.
 
