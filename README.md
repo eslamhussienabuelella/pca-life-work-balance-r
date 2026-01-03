@@ -132,8 +132,3 @@ MSc Data Science – Coventry University
 
 - GitHub: https://github.com/eslamhussienabuelella  
 - Portfolio: https://eslamhussienabuelella.github.io  
-
----
-
-## 📄 License
-This project is shared for academic and portfolio purposes.
