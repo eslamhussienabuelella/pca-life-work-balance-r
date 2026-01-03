@@ -26,7 +26,7 @@ This analysis follows reproducible research practices, with all figures and tabl
   
 ---
   
-## Repository Structure
+## 📁 Repository Structure
 
 pca-life-work-balance-r  
 │  
@@ -58,7 +58,7 @@ outputs/ # Generated figures and tables
   
 ---
   
-## Scripts  
+## 🧾 Scripts  
 - `part_a_global_pca_region.R`  
   Global PCA using all quantitative variables with regional interpretation.
 
@@ -67,14 +67,14 @@ outputs/ # Generated figures and tables
   
 ---
   
-## Methods
+## ⚙️ Methods
 - Data cleaning using `tidyverse`
 - PCA using `prcomp()` with scaling
 - Visualisation using `ggplot2`, `ggfortify`, and `GGally`
   
 ---
   
-## Data Source
+## 🗂️ Data Source
 Global Life–Work Balance Index 2025  
 Source: https://remote.com/resources/research/global-life-work-balance-index
   
