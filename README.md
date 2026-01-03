@@ -74,9 +74,16 @@ pca-life-work-balance-r
 Global Life–Work Balance Index 2025  
 Source: https://remote.com/resources/research/global-life-work-balance-index
   
----
-
+---  
+  
 ## 📊 Key Results  
+  
+### At a glance
+- PC1 captures overall social well-being and inclusion (~33% variance).
+- Employment protection policies dominate PC2 globally.
+- Europe-only PCA reveals stronger institutional (healthcare) effects.
+- Removing global disparities shifts explanatory power from geography to policy design.
+  
 ### 🌍 Global PCA (All Countries)
 
 - **PC1 (≈ 33% variance)** represents a general life–work balance and social well-being axis, driven by happiness, LGBTQ inclusivity, public safety, working hours, and overall index score. Countries with stronger social protections and inclusive policies score higher on this dimension.
