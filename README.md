@@ -29,10 +29,10 @@ pca-life-work-balance-r
 │   └── part_b_europe_pca_healthcare.R  
 │  
 ├── outputs/  
-│   ├── figures/  
+│   ├── figures/    
 │   │   ├── global/  
 │   │   └── europe/  
-│   └── tables/  
+│   └── tables/    
 │       ├── global/  
 │       └── europe/  
 │  
