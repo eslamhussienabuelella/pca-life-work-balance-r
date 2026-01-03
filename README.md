@@ -112,7 +112,7 @@ This comparison demonstrates that once broad global disparities are removed,**po
 ![PC2 vs PC3 – Region](outputs/figures/global/partA_biplot_pc2_pc3_region.png)
 
 ### Europe PCA (Healthcare System)
-![Europe PCA – Healthcare](outputs/figures/europe/partB_biplot_pc1_pc2_healthcare.png)
+![Europe PCA – Healthcare](outputs/figures/europe/partB_biplot_pc1_pc2_health.png)
   
 ---
 
